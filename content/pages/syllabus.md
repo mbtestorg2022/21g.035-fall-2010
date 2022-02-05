@@ -30,11 +30,60 @@ Final papers will take the form of a sustained argument about some global dimens
 Grading Distribution
 --------------------
 
-| ACTIVITIES | PERCENTAGES | DUE DATES |
-| --- | --- | --- |
-| Discussion, attendance | 20% | Throughout term |
-| Short papers (10 total) | 50% | Due every Thursday |
-| Final paper (8-10 pages) | 30% | Due on final exam date 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion, attendance
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+Throughout term
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short papers (10 total)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+{{< tdopen >}}
+Due every Thursday
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper (8-10 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+Due on final exam date
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Books
 --------------
@@ -48,18 +97,225 @@ Calendar
 
 A partial list of video and audio used in each unit is included below. Reading assignments for each session are available on the [Readings]({{< baseurl >}}/pages/readings) page.
 
-| SES # | TOPICS | AUDIO/VIDEO |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2-5 | Jamaica |  {{< br >}}{{< br >}} Excerpts from: {{< br >}}{{< br >}} [_Roots, Rock, Reggae: Inside the Jamaican Music Scene_](http://www.imdb.com/title/tt0245397/). Terence Dackombe. Shanachie, 1977. {{< br >}}{{< br >}} [_The Harder They Come_](http://www.imdb.com/title/tt0070155/). Perry Henzell and Trevor D. Rhone. New World Pictures, 1972. {{< br >}}{{< br >}} [_Dancehall Queen_](http://www.imdb.com/title/tt0127497/). Rick Elgood and Don Letts. Palm Pictures, 1997. {{< br >}}{{< br >}} [_Third World Cop_](http://www.imdb.com/title/tt0179063/). Chris Browne. Palm Pictures, 1999. {{< br >}}{{< br >}} [_Shottas_](http://www.imdb.com/title/tt0281190/). Cess Silvera. Sony Pictures Home Entertainment, 2002. {{< br >}}{{< br >}}  |
-| 6-7 | United Kingdom |  {{< br >}}{{< br >}} "[Blogariddims #10 - An England Story](http://www.future-music.net/forum/showthread.php?t=39420)." _The Heat Wave_, November 2006. {{< br >}}{{< br >}} [_Reggae In Babylon_](http://www.imdb.com/title/tt0371128/). Wolfgang Büld. WDR, 1978. {{< br >}}{{< br >}} [_MUTINY: Asians Storm British Music_](http://www.imdb.com/title/tt3663520/). Vivek Bald. Unreleased. {{< br >}}{{< br >}}  |
-| 8-9 | United States |  {{< br >}}{{< br >}} Excerpts from: {{< br >}}{{< br >}} _[Tokion Presents Sound Class](http://vimeo.com/4493597)._ Adam Glickman. Tokion Magazine, 2003. {{< br >}}{{< br >}} [_Marked for Death_](http://www.imdb.com/title/tt0100114/). Dwight Little. 20th Century Fox, 1990. {{< br >}}{{< br >}} [_Belly_](http://www.imdb.com/title/tt0158493/). Hype Williams. Artisan Entertainment, 1998. {{< br >}}{{< br >}} [_Predator 2_](http://www.imdb.com/title/tt0100403/). Stephen Hopkins. 20th Century Fox, 1990. {{< br >}}{{< br >}}  |
-| 10 | Costa Rica | &nbsp; |
-| 11 | Panama | &nbsp; |
-| 12-13 | Puerto Rico | &nbsp; |
-| 14-15 | Cuba | &nbsp; |
-| 16-17 | Brazil |  {{< br >}}{{< br >}} [_Favela Rising_](http://www.imdb.com/title/tt0455949/). Matt Mochary and Jeff Zimbalist. All Rise Films, 2005. {{< br >}}{{< br >}} [_Favela on Blast_](http://www.imdb.com/title/tt1353167/). Leandro HBL and Wesley Pentz. Mosquito Project and Mad Decent, 2008. {{< br >}}{{< br >}}  |
-| 18-20 | West, East, and Southern Africa |  {{< br >}}{{< br >}} [_Living the Hiplife_](http://livingthehiplife.haverford.edu/). Jesse Weaver Shipley. 2007. {{< br >}}{{< br >}} [_Africa Unite: A Celebration of Bob Marley's 60th Birthday_](http://www.imdb.com/title/tt0993744/). Stephanie Black. Palm Pictures, 2008. {{< br >}}{{< br >}} ["Buchaman."](https://www.vice.com/en_us/article/mvbdba/buchaman) _Music World_. VBS, 2008. {{< br >}}{{< br >}}  |
-| 21-22 | Japan | &nbsp; |
-| 23-24 | Australia and Bali | &nbsp; |
-| 25 | Conclusions, discussions of final papers |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+AUDIO/VIDEO
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-5
+{{< tdclose >}}
+{{< tdopen >}}
+Jamaica
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Excerpts from:
+
+[_Roots, Rock, Reggae: Inside the Jamaican Music Scene_](http://www.imdb.com/title/tt0245397/). Terence Dackombe. Shanachie, 1977.
+
+[_The Harder They Come_](http://www.imdb.com/title/tt0070155/). Perry Henzell and Trevor D. Rhone. New World Pictures, 1972.
+
+[_Dancehall Queen_](http://www.imdb.com/title/tt0127497/). Rick Elgood and Don Letts. Palm Pictures, 1997.
+
+[_Third World Cop_](http://www.imdb.com/title/tt0179063/). Chris Browne. Palm Pictures, 1999.
+
+[_Shottas_](http://www.imdb.com/title/tt0281190/). Cess Silvera. Sony Pictures Home Entertainment, 2002.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+United Kingdom
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"[Blogariddims #10 - An England Story](http://www.future-music.net/forum/showthread.php?t=39420)." _The Heat Wave_, November 2006.
+
+[_Reggae In Babylon_](http://www.imdb.com/title/tt0371128/). Wolfgang Büld. WDR, 1978.
+
+[_MUTINY: Asians Storm British Music_](http://www.imdb.com/title/tt3663520/). Vivek Bald. Unreleased.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+United States
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Excerpts from:
+
+_[Tokion Presents Sound Class](http://vimeo.com/4493597)._ Adam Glickman. Tokion Magazine, 2003.
+
+[_Marked for Death_](http://www.imdb.com/title/tt0100114/). Dwight Little. 20th Century Fox, 1990.
+
+[_Belly_](http://www.imdb.com/title/tt0158493/). Hype Williams. Artisan Entertainment, 1998.
+
+[_Predator 2_](http://www.imdb.com/title/tt0100403/). Stephen Hopkins. 20th Century Fox, 1990.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Costa Rica
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Panama
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Puerto Rico
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Cuba
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-17
+{{< tdclose >}}
+{{< tdopen >}}
+Brazil
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[_Favela Rising_](http://www.imdb.com/title/tt0455949/). Matt Mochary and Jeff Zimbalist. All Rise Films, 2005.
+
+[_Favela on Blast_](http://www.imdb.com/title/tt1353167/). Leandro HBL and Wesley Pentz. Mosquito Project and Mad Decent, 2008.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-20
+{{< tdclose >}}
+{{< tdopen >}}
+West, East, and Southern Africa
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[_Living the Hiplife_](http://livingthehiplife.haverford.edu/). Jesse Weaver Shipley. 2007.
+
+[_Africa Unite: A Celebration of Bob Marley's 60th Birthday_](http://www.imdb.com/title/tt0993744/). Stephanie Black. Palm Pictures, 2008.
+
+["Buchaman."](https://www.vice.com/en_us/article/mvbdba/buchaman) _Music World_. VBS, 2008.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-22
+{{< tdclose >}}
+{{< tdopen >}}
+Japan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Australia and Bali
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions, discussions of final papers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
