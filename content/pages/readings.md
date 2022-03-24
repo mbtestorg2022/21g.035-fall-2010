@@ -98,7 +98,7 @@ Gilroy, Paul. "Between the Blues and the Blues Dance: Some Soundscapes of the Bl
 
 Sharma, Sanjay. "Noisy Asians or 'Asian' Noise?" In _Dis-Orienting Rhythms: The Politics of the New Asian Dance Music_. London, England: Zed Books, 1996, pp. 32-60. ISBN: 9781856494700.
 
-Quinn, Steven. "Rumble In The Jungle: The Invisible History of Drum'n'Bass." _Transformations_ 3 (June 2002): 1-12. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.transformationsjournal.org/issues/03/pdf/quinn.pdf))
+Quinn, Steven. "Rumble In The Jungle: The Invisible History of Drum'n'Bass." _Transformations_ 3 (June 2002): 1-12. ([PDF](http://www.transformationsjournal.org/issues/03/pdf/quinn.pdf))
 
 Liner notes. _Watch How The People Dancing - Unity Sounds From The London Dancehall, 1986-1989_. Honest Jon's Records, 2002.
 
@@ -197,7 +197,7 @@ Nwankwo, Ifeoma C. K. "The Panamanian Origins of _Reggae en Español_: Seeing Hi
 
 Giovannetti, Jorge L. "Popular Music and Culture in Puerto Rico: Jamaican and Rap Music as Cross-Cultural Symbols." In Aparicio, Frances R., and Cándida F. Jáquez. _Musical Migrations: Transnationalism and Cultural Hybridity in the Americas_. New York, NY: Palgrave, 2002, pp. 81-98. ISBN: 9781403960016.
 
-Flores, Juan. "Creolité in the 'Hood: Diaspora as Source and Challenge." _Centro_ 16 (Fall 2004): 283-289. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wayneandwax.com/pdfs/flores-diaspora-creolite.pdf))
+Flores, Juan. "Creolité in the 'Hood: Diaspora as Source and Challenge." _Centro_ 16 (Fall 2004): 283-289. ([PDF](http://wayneandwax.com/pdfs/flores-diaspora-creolite.pdf))
 
 
 {{< tdclose >}}
